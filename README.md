@@ -1,4 +1,4 @@
-<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。;I'm+big-orange+Welcome+!&center=true&size=27"> </a> </div>
+<div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。&center=true&size=27"> </a> </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltwater-fish)
 
