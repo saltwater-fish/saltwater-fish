@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=关山难越，谁悲失路之人；萍水相逢，尽是他乡之客。)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltwater-fish)
 
 <!--
