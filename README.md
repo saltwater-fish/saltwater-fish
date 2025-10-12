@@ -7,6 +7,8 @@
 
 [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=saltwater-fish)](https://github.com/saltwater-fish)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 <!--
 **saltwater-fish/saltwater-fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
