@@ -6,9 +6,9 @@
 
 [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=saltwater-fish)](https://github.com/saltwater-fish)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltwater-fish&show_icons=true&theme=transparent)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltwater-fish&show_icons=true&bg_color=00000000&hide_border=true)
 
 
 <!--
