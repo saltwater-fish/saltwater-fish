@@ -4,10 +4,11 @@
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltwater-fish&show_icons=true&theme=tokyonight)
 
-
 [![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=saltwater-fish)](https://github.com/saltwater-fish)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
 
 <!--
