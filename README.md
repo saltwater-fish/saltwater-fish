@@ -6,16 +6,6 @@
   <img src="./github-metrics.svg" alt="github profile"/>
 </p>
 
-![Metrics](https://metrics.lecoq.io/saltwater-fish?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FShanghai)
-
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltwater-fish&show_icons=true&theme=tokyonight&hide_border=true)
-
-[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=saltwater-fish)](https://github.com/saltwater-fish)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltwater-fish&show_icons=true&theme=transparent&hide_border=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saltwater-fish&show_icons=true&bg_color=00000000&hide_border=true)
-
 
 <!--
 **saltwater-fish/saltwater-fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
